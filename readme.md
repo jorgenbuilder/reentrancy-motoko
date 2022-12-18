@@ -15,3 +15,9 @@ However, each `await` allows some other message to occur within the control flow
 i0 = 0, i1 = 96, i2 = 196
 i0 = 0, i1 = 54, i2 = 154
 i0 = 0, i1 = 41, i2 = 141
+
+```
+npm i
+npm start
+npm t
+```

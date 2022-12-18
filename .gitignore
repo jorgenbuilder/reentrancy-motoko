@@ -1,0 +1,25 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+
+# generated files
+src/declarations/
+
+node_modules
+.vessel
+
+tests/lib/keys/keys.json
+tests/declarations/*
+frontend/src/integration/declarations/*
+!tests/declarations/readme.md
+!frontend/src/integration/declarations/readme.md
+
+.eslintcache

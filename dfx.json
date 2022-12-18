@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "reentrancy": {
+      "main": "main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": ""
+    }
+  },
+  "dfx": "0.12.1",
+  "version": 1
+}
